@@ -207,7 +207,7 @@ gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'mast
   - [Faker::Types](doc/default/types.md)
   - [Faker::University](doc/default/university.md)
   - [Faker::Vehicle](doc/default/vehicle.md)
-  - [Faker::Verbs](doc/default/verbs.md)
+  - [Faker::Verb](doc/default/verbs.md)
   - [Faker::WorldCup](doc/default/world_cup.md)
 
 ### Blockchain
